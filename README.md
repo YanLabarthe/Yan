@@ -11,7 +11,9 @@ My name is Yan Labarthe. I worked as a SEO specialist and I'm now a junior web d
   
 You can find here some of my work:  
 🔗 My website : https://yanlabarthe.com  
-🔗 First formation project : https://yanlabarthe.github.io/Project-1-Cinema-MAJE/#nouveaute  
+🔗 First formation project : https://yanlabarthe.github.io/Project-1-Cinema-MAJE/#nouveaute
+🔗 Third professional project (WIP - for Yalinov) : https://yalinov.bordeaux-1.wilders.dev/
+
 Sadly, most of what I've done was meant to be used by companies and can't be published for privacy reasons.  
   
 I finished my formation at the Wild Code School ("web developer fullstack") where I learned:  
