@@ -1,5 +1,5 @@
 👋 Hi, I’m Yan.  
-👀 I’m looking for work, an "alternance" or an internship  
+👀 I’m working as a web developer for [SCIAM](https://sciam.fr/fr/) and currently working on a project for the association [Par Le Monde](https://www.parlemonde.org/)  
 🌱 I’m currently learning React / NodeJs / React Native / TypeScript  
 📞 You can reach me by phone at : +33 6 51 22 53 41  
 📫 Or by email at : yan.labarthe@gmail.com  
