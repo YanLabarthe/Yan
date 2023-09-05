@@ -1,6 +1,6 @@
 👋 Hi, I’m Yan.  
-👀 I’m looking for a work as a developer (prefers typescript / react / node, but i'm flexible :) ). I have 2 years of experience atm. 
-🌱 I’m currently learning React / NodeJs / React Native / TypeScript  
+👀 I’m looking for a work as a developer (prefers typescript / react / node, but i'm flexible :) )  
+🌱 I have 2 years of experience in TypeScript / React / NodeJs / React Native  
 📞 You can reach me by phone at : +33 6 51 22 53 41  
 📫 Or by email at : yan.labarthe@gmail.com  
   
