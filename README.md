@@ -9,7 +9,7 @@ Welcome to my GitHub profile
 
 My name is Yan Labarthe. I'm a web developer (mainly typescript / react / node.js) with 2 years of experience that previously worked as a SEO specialist.  
 
-My main working experience was as a web developer for [SCIAM](https://sciam.fr/fr/) for the association [Par Le Monde](https://www.parlemonde.org/).  
+My main working experience was as a web developer for [SCIAM](https://sciam.fr/fr/) for the association [Par Le Monde](https://www.parlemonde.org/). The project is open source and you can find it [here](https://github.com/parlemonde/1village/) 
   
 You can find here some of my work:  
 🔗 My website : https://yanlabarthe.com  
